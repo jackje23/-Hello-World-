@@ -11,13 +11,13 @@
 4. examples.html
 
 # -Files Used-
-+ReadMe File
-+I got this file from the GitHub homepage
-+In this file I am able to create this page titled "Hello World"
+1. ReadMe File
+2. I got this file from the GitHub homepage
+3. In this file I am able to create this page titled "Hello World"
 
 
 # -Additional Documentation
 <sub>I did not use any additional documentation</sub>
 
 # -Versioning-
-version
+<sup>I practiced a lot of different types of syntax including this one (superscript)</sup>
