@@ -5,10 +5,15 @@
 ***I am practicing using GitHub and adding a description***
 
 # -How to Run Program
-How to run program
+1. README.md
+2. pgmname1.R
+3. filename1.csv
+4. examples.html
 
 # -Files Used-
-files
+*ReadMe File
+-I got this file from the GitHub homepage
+
 
 # -Additional Documentation
 <sub>I did not use any additional documentation</sub>
