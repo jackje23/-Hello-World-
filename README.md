@@ -2,10 +2,10 @@
 # -Project Title-
 
 **Practice Hello World File**
-# -Description-
+***I am practicing using GitHub and adding a description***
 
 # -How to Run Program
-***I am practicing using GitHub and adding a description***
+How to run program
 
 # -Files Used-
 files
