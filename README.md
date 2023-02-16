@@ -1,12 +1,5 @@
 # -Hello-World-
 
-## -Table of Contents-
-***Project Title
-How to Run Program
-Files Used
-Additional Documentation
-Versioning
-
 ## -Project Title-
 
 **Practice Hello World File**
@@ -19,9 +12,9 @@ Versioning
 4. examples.html
 
 ## -Files Used-
-1. ReadMe File
-2. I got this file from the GitHub homepage
-3. In this file I am able to create this page titled "Hello World"
+1. ***ReadMe File***
+2. ***I got this file from the GitHub homepage***
+3. ***In this file I am able to create this page titled "Hello World"***
 
 
 ## -Additional Documentation
